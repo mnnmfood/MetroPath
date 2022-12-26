@@ -1,0 +1,9 @@
+2020-03-09 00:45:53.249 - Informacion :: Se ha encontrado ruta con exito. Salida:DIEGO DE LEON   Llegada:BARRIO DEL PILAR   Tiempo de busqueda:3.649914  milisegundos
+2020-03-09 00:52:13.299 - Error :: Una de las dos stationes no se ha podido encontrar:   Salida:BARRIO DEL PILAR   Llegada:ASHDFAS
+2020-03-09 00:52:52.39 - Informacion :: Se ha encontrado ruta con exito. Salida:ARGUELLES   Llegada:BARRIO DEL PILAR   Tiempo de busqueda:2.993275  milisegundos
+2020-03-09 00:56:43.953 - Error :: Error al cargar archivo que contiene el metro
+2020-03-09 01:17:06.602 - Informacion :: Se ha encontrado ruta con exito. Salida:PLAZA DE CASTILLA   Llegada:GOYA   Tiempo de busqueda:3.236155  milisegundos
+2020-03-09 22:15:02.915 - Informacion :: Se ha encontrado ruta con exito. Salida:BARRIO DEL PILAR   Llegada:GOYA   Tiempo de busqueda:6.823976  milisegundos
+2020-03-09 22:15:26.798 - Error :: Una de las dos stationes no se ha podido encontrar:   Salida:BARRIO DEL PILAR   Llegada:SAKDJLFHAUISDF
+2022-12-26 17:19:40.125 - Informacion :: Se ha encontrado ruta con exito. Salida:AVENIDA DE AMERICA   Llegada:SOL   Tiempo de busqueda:3.5335  milisegundos
+2022-12-26 17:21:09.048 - Informacion :: Se ha encontrado ruta con exito. Salida:BARRIO DEL PILAR   Llegada:DIEGO DE LEON   Tiempo de busqueda:3.3361  milisegundos
